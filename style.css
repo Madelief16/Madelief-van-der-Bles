@@ -31,3 +31,11 @@ strong {
     font-style: italic;
     text-transform: uppercase;
 }
+<style>
+p {
+    letter-spacing: 0.5em;
+    word-spacing: 1em;
+    line-height: 1.2;
+    text-align: center;
+}
+</style>
